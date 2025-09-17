@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://focusmag.eu01.live:8080/play/live.php?mac=00:1A:79:DD:A4:A6&stream=665076&extension=m3u8
