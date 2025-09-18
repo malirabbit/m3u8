@@ -1,4 +1,5 @@
 #EXTM3U
+#Expire Nov 20 2025
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:F1:00:38&stream=30567&extension=m3u8

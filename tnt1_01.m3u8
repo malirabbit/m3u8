@@ -1,4 +1,5 @@
 #EXTM3U
+#Expire Sep 19 2025
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 http://22297-hot.cloud-ott.me:80/play/live.php?mac=00:1A:79:30:02:24&stream=30567&extension=m3u8
