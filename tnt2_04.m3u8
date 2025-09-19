@@ -1,5 +1,5 @@
 #EXTM3U
-#Expire Oct 2 2025
+#Expire Dec 9 2025
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:16:5F:BF&stream=1595637&stream=30566&extension=m3u8
+http://one.d4k4u.com:80/play/live.php?mac=00:1A:79:41:66:ff&stream=309616&extension=m3u8
